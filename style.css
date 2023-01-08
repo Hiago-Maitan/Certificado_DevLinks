@@ -1,0 +1,9 @@
+body {
+    background: rgb(49, 47, 49) ;
+}
+
+.certificado {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0;
+}
